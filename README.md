@@ -25,10 +25,11 @@ Access complete device specs in one place: memory and storage details, battery s
 ## Screenshots
 <table>
   <tr>
-    <td><img src="assets/screen1.png" alt="Net traffic and ram acitivty"></td>
-    <td><img src="assets/screen2.png" alt="Proc file reader"></td>
-    <td><img src="assets/screen3.png" alt="Android system info interface 1"></td>
-    <td><img src="assets/screen4.png" alt="Android system info interface 2"></td>
+    <td><img src="assets/screen1.png" alt="Sensors screen one"></td>
+    <td><img src="assets/screen2.png" alt="Sensors screen two"></td>
+    <td><img src="assets/screen3.png" alt="System tasks"></td>
+    <td><img src="assets/screen4.png" alt="Installed apps"></td>
+    <td><img src="assets/screen5.png" alt="Device system info"></td>
 	</tr>
 </table>
 
