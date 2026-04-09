@@ -5,6 +5,11 @@ Real-time sensor data, installed apps overview, running processes, device info
 
 Activity Monitor is a lightweight app that provides real-time sensor data, a detailed view of installed applications, running process information, and comprehensive device specs — all in one place.
 
+Download activity monitor apk
+
+[<img src="https://github.com/user-attachments/assets/3811fb3b-3817-4384-b116-5815283964c8" alt="Get it on GitHub" height="80">](https://github.com/BlindZoneApps/activity-monitor-apk/releases)
+[<img src="https://github.com/user-attachments/assets/9abc74de-aca6-4975-b1c0-8689a881aa21" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=com.ddm.deviceinfo)
+
 SENSORS
 View live data from every sensor on your device: accelerometer, gyroscope, light, pressure, proximity, magnetic field, and more. Each sensor displays real-time values with a live graph, along with detailed specs including vendor, range, resolution, and power consumption.
 
@@ -16,11 +21,6 @@ View currently running and recently used applications with process details inclu
 
 DEVICE INFORMATION
 Access complete device specs in one place: memory and storage details, battery status (percentage, voltage, temperature, health, charging source, current draw), SIM card info, display parameters, CPU architecture, NFC status, system sensors and features, OS version, security patch level, bootloader, kernel, and more.
-
-Download activity monitor apk
-
-[<img src="https://github.com/user-attachments/assets/3811fb3b-3817-4384-b116-5815283964c8" alt="Get it on GitHub" height="80">](https://github.com/BlindZoneApps/activity-monitor-apk/releases)
-[<img src="https://github.com/user-attachments/assets/9abc74de-aca6-4975-b1c0-8689a881aa21" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=com.ddm.deviceinfo)
 
 ## Screenshots
 <table>
